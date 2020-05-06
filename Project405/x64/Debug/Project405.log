@@ -1,0 +1,29 @@
+﻿  AABB.cpp
+  Cube.cpp
+  main.cpp
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(324): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(273): warning C4101: 'texture6': unreferenced local variable
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(273): warning C4101: 'texture5': unreferenced local variable
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(829): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(830): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(833): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(834): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(835): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(836): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol __imp_glBindTexture referenced in function "void __cdecl RenderText(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,float,float,struct glm::vec<3,float,0>)" (?RenderText@@YAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMMU?$vec@$02M$0A@@glm@@@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glBlendFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glDrawArrays referenced in function "void __cdecl RenderText(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,float,float,struct glm::vec<3,float,0>)" (?RenderText@@YAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMMU?$vec@$02M$0A@@glm@@@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glDrawBuffer referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glEnable referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glGenTextures referenced in function "void __cdecl loadTexture(unsigned int &,unsigned int,char const *)" (?loadTexture@@YAXAEAIIPEBD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glPixelStorei referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glReadBuffer referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glTexImage2D referenced in function "void __cdecl loadTexture(unsigned int &,unsigned int,char const *)" (?loadTexture@@YAXAEAIIPEBD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glTexParameteri referenced in function "void __cdecl loadTexture(unsigned int &,unsigned int,char const *)" (?loadTexture@@YAXAEAIIPEBD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glViewport referenced in function "void __cdecl framebuffer_size_callback(struct GLFWwindow *,int,int)" (?framebuffer_size_callback@@YAXPEAUGLFWwindow@@HH@Z)
+C:\Users\okuyucu\source\repos\Project405\x64\Debug\Project405.exe : fatal error LNK1120: 13 unresolved externals

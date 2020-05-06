@@ -1,0 +1,16 @@
+﻿  AABB.cpp
+  Cube.cpp
+  main.cpp
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(324): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(273): warning C4101: 'texture6': unreferenced local variable
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(273): warning C4101: 'texture5': unreferenced local variable
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(829): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(830): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(833): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(834): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(835): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\okuyucu\source\repos\project405\project405\main.cpp(836): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project405.vcxproj -> C:\Users\okuyucu\source\repos\Project405\Debug\Project405.exe
